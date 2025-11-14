@@ -1,0 +1,10 @@
+let firstString = "String";
+let firstNumber = 12;
+let firstBoolen = true;
+let firstNull = null;
+let firstUndefined = undefined;
+console.log(firstString);
+console.log(firstNumber);
+console.log(firstBoolen);
+console.log(firstNull);
+console.log(firstUndefined);
